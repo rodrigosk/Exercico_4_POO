@@ -20,9 +20,12 @@ public class Inicio{
 		br.close();
 	}
 	catch(Exception e){
-		System.out.println("O arquivo n„o foi localizado");
+		System.out.println("O arquivo n√£o foi localizado");
 
 	}
+	int soma;
+	soma=1+2+3;
+	System.out.println("::"+soma)
 }
 }
 
